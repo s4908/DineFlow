@@ -1,0 +1,7 @@
+{
+  "name": "DineFlow - AI Nutrition & Sonic Sync",
+  "description": "A revolutionary diet tracking app combining computer vision for calorie tracking with generative soundscapes to optimize digestion and eating habits.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
